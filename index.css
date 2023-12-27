@@ -75,7 +75,7 @@ nav {
 .hover-link:active {
     color: red;
 }
-.nav-item:active {
+.nav-item.active {
     color: var(--accent-color);
 }
 
